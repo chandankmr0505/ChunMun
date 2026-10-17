@@ -1,0 +1,6 @@
+{
+  "name": "ChunMun Holiday Travels",
+  "description": "Discover the Soul of Incredible India with hand-crafted holiday packages, private luxury chauffeurs, verified boutique hotels, and 24/7 dedicated concierge care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
